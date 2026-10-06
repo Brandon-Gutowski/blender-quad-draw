@@ -1,0 +1,14 @@
+schema_version = "1.0.0"
+
+id = "quad_draw"
+version = "1.0.0"
+name = "Quad Draw"
+tagline = "Maya-style Quad Draw retopology tool"
+maintainer = "Brandon Gutowski"
+type = "add-on"
+
+tags = ["Mesh", "Modeling"]
+
+blender_version_min = "4.2.0"
+
+license = ["SPDX:GPL-3.0-or-later"]
