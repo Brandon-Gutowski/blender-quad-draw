@@ -47,3 +47,6 @@ Pixel radii live in the add-on preferences; brush radius and relax strength are 
 ```bash
 /Applications/Blender.app/Contents/MacOS/Blender --factory-startup --enable-event-simulate some_empty.blend --python QuadDraw/tests/test_gui.py
 ```
+
+## License
+GPL-3.0-or-later. See [LICENSE](LICENSE).
